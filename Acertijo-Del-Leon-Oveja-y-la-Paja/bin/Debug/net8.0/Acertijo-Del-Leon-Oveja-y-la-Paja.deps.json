@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Acertijo-Del-Leon-Oveja-y-la-Paja/1.0.0": {
+        "runtime": {
+          "Acertijo-Del-Leon-Oveja-y-la-Paja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acertijo-Del-Leon-Oveja-y-la-Paja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

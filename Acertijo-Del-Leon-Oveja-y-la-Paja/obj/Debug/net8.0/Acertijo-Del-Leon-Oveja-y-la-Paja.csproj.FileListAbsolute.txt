@@ -1,0 +1,15 @@
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\bin\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.exe
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\bin\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.deps.json
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\bin\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.runtimeconfig.json
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\bin\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.dll
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\bin\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.pdb
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.AssemblyInfoInputs.cache
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.AssemblyInfo.cs
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.csproj.CoreCompileInputs.cache
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.sourcelink.json
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.dll
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\refint\Acertijo-Del-Leon-Oveja-y-la-Paja.dll
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.pdb
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\Acertijo-Del-Leon-Oveja-y-la-Paja.genruntimeconfig.cache
+C:\Users\alexa.lara\source\repos\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\Acertijo-Del-Leon-Oveja-y-la-Paja\obj\Debug\net8.0\ref\Acertijo-Del-Leon-Oveja-y-la-Paja.dll
